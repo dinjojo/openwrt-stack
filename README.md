@@ -34,5 +34,7 @@ Recommended packages:
 
 ---
 
-## Repository Structure
+opkg install firewall iptables luci
+opkg install sqm-scripts luci-app-sqm
+opkg install adguardhome
 
