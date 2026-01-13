@@ -1,0 +1,10 @@
+sqm.eth1=queue
+sqm.eth1.enabled='1'
+sqm.eth1.interface='eth0'
+sqm.eth1.download='415000'
+sqm.eth1.upload='400000'
+sqm.eth1.qdisc='cake'
+sqm.eth1.script='piece_of_cake.qos'
+sqm.eth1.linklayer='none'
+sqm.eth1.debug_logging='0'
+sqm.eth1.verbosity='5'
